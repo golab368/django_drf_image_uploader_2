@@ -39,7 +39,8 @@ source venv_name/bin/activate  # Activates the virtual environment
 ```
 3. Install Dependencies:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 4. Database and APP Setup:
