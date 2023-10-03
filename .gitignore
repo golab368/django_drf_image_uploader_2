@@ -15,5 +15,6 @@ celerybeat.pid
 
 *.env
 .env.*
+!.env.examples
 settings.py
 local_settings.py
